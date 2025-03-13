@@ -8,7 +8,6 @@
 
 - [▶️ Preview](#%E2%96%B6%EF%B8%8F-preview)
 - [⚙️ Config](#%E2%9A%99%EF%B8%8F-config)
-    + [💠 SuperPins mods setting](#%F0%9F%92%A0-superpins-mods-setting)
     + [💠 Copy Link Button setting](#%F0%9F%92%A0-copy-link-button-setting)
     + [💠 Optional Tweak](#%F0%9F%92%A0-optional-tweak)
 - [🗨️ FAQ](#%F0%9F%97%A8%EF%B8%8F-faq)
@@ -27,15 +26,11 @@
 
 go to `about:config`, type and click add button as boolean:
 
-| Name                                    | Set    | Description                                                            |
-| --------------------------------------- | ------ | ---------------------------------------------------------------------- |
-| `bubble.clean.hide-single-toolbar-icon` | `true` | Hide icons in urlbar (single toolbar)                                  |
-| `bubble.clean.show-titlebar`            | `true` | Show titlebar in hover                                                 |
-| `bubble.clean.pinned-grid-bg`           | `true` | Add Bubble Clean background<br> for grid pinned tab (w/ SuperPins Mod) |
-
-#### 💠 SuperPins mods setting
-
-![image](https://github.com/user-attachments/assets/4b83f7a4-5651-4f5c-af6f-bdb15957bc96)
+| Name                                    | Set    | Description                           |
+| --------------------------------------- | ------ | ------------------------------------- |
+| `bubble.clean.hide-single-toolbar-icon` | `true` | Hide icons in urlbar (single toolbar) |
+| `bubble.clean.show-titlebar`            | `true` | Show titlebar in hover                |
+| `bubble.clean.pinned-grid`              | `true` | Change pinned tab to grid style       |
 
 #### 💠 Copy Link Button setting
 
@@ -52,7 +47,7 @@ Go to `about:config` and set:
 | `browser.tabs.allow_transparent_browser` | `true` | Allow transparency       |
 | `widget.windows.mica`                    | `true` | Allow transparency       |
 
-For `v1.8b` if you're transparency not working
+For `v1.8b` above if you're transparency not working
 go to `about:config` and set:
 
 | Name                         | Set     |
@@ -75,7 +70,7 @@ go to `about:config` and set:
 
 ## ✨ Special Thanks & Credits
 
-(sorry if I'm missing some, just hit me some message)
+(sry if I'm missing some, just hit me some message)
 
 | Details                         | Credit                                                        |
 | ------------------------------- | ------------------------------------------------------------- |
